@@ -1,4 +1,5 @@
-// I add a Time for the excedind requirment // 
+// I add a Time in the journal,  so when the user enter a new text he can see, what time he// 
+// can see what time he write it That's my creativity // 
 
  using System.IO;
  using System;
